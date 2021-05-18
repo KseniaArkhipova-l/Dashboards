@@ -11,4 +11,4 @@
 Доля событий по темам источников;\
 Соответствие тем карточек темам источников.
 
-[Dashboard] (https://public.tableau.com/profile/ksenia1665#!/vizhome/ProjKseniaA/Dashboard1)
+[Dashboard](https://public.tableau.com/profile/ksenia1665#!/vizhome/ProjKseniaA/Dashboard1)
